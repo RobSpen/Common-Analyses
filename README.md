@@ -48,4 +48,7 @@ Data visualisation using the Seaborn library: https://www.youtube.com/@KimberlyF
 
 Statistical concepts and code examples: https://www.youtube.com/@stikpet/videos 
 
+## License
+
+[MIT License](LICENCE) 
 
